@@ -6,6 +6,7 @@ int N[5] = {100, 1000, 10000, 100000, 1000000};
 int a[MAX_SIZE];
 int n;
 int b;
+int c;
 int main()
 {
     clock_t start_time, end_time;
